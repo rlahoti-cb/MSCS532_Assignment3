@@ -1,0 +1,33 @@
+>>>
+Load Factor: 0.1
+Insert Time: 0.002588033676147461 seconds
+Search Time: 0.0024178028106689453 seconds
+Delete Time: 0.0004911422729492188 seconds
+
+
+>>>
+Load Factor: 0.25
+Insert Time: 0.010973930358886719 seconds
+Search Time: 0.010953903198242188 seconds
+Delete Time: 0.0010178089141845703 seconds
+
+
+>>>
+Load Factor: 1.0
+Insert Time: 0.19850397109985352 seconds
+Search Time: 0.19106101989746094 seconds
+Delete Time: 0.0043909549713134766 seconds
+
+
+>>>
+Load Factor: 2.5
+Insert Time: 1.3875043392181396 seconds
+Search Time: 1.363088846206665 seconds
+Delete Time: 0.014010190963745117 seconds
+
+
+>>>
+Load Factor: 5.0
+Insert Time: 8.286629915237427 seconds
+Search Time: 9.463291883468628 seconds
+Delete Time: 0.04183697700500488 seconds
